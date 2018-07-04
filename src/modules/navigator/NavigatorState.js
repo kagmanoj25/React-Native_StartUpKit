@@ -1,4 +1,4 @@
-import {fromJS} from 'immutable';
+/*import {fromJS} from 'immutable';
 import {NavigationActions} from 'react-navigation';
 import includes from 'lodash/includes';
 
@@ -16,4 +16,4 @@ export default function NavigatorReducer(state, action) {
   }
 
   return state;
-}
+}*/
